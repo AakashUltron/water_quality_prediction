@@ -7,9 +7,9 @@ This repository represents the final project submission for Group 4 (The Avenger
 The group members are:
 
 - Rajesh
-- Sanjay kumar
-  Aakash dharshan
-- Gopal krishnan
+- SanjayKumar
+- Aakash Dharshan
+- Gopalakrishnan
 
 ## Project Overview
 
