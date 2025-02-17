@@ -6,26 +6,18 @@ This repository represents the final project submission for Group 4 (The Avenger
 
 The group members are:
 
-- [Mallikarjun Aitha](https://www.linkedin.com/in/mallikarjun-aitha/)
-- [Siri H G](https://www.linkedin.com/in/sirihg/)
-- [Shraddha Shrestha](https://www.linkedin.com/in/shraddha-shrestha-j06/)
-- Madhavi Kancham
+- Rajesh
+- Sanjay kumar
+  Aakash dharshan
+- Gopal krishnan
 
 ## Project Overview
 
 This repository contains the final project submission for the Water Quality Prediction. This project employs machine learning to predict water potability, assessing safety through diverse quality indicators. The dataset includes pH, hardness, and chemical concentrations, forming the basis for predictive models. Addressing imbalances, ethical concerns, and feature analysis, the project contributes to proactive water quality management, aiming for global access to clean and safe drinking water.
 
-## Exploratory Data Analysis (EDA)
-
-EDA tasks focus on visualizing missing values, understanding the distribution of potability, exploring relationships between columns, calculating correlations, and creating histograms. These steps collectively provide a comprehensive understanding of the dataset.
-
 ## Results
 
 The project employed various machine learning algorithms for classification, including Logistic Regression, Decision Tree Classifier, Random Forest Classifier, K-Nearest Neighbors (KNN), Support Vector Classifier (SVM), Naive Bayes, and XGBoost. SVM stood out for its robust performance, demonstrating superior accuracy and a balanced precision-recall trade-off compared to other models.
-
-## Application Deployment
-
-A demo application was deployed using Flask, offering a simple web form for users to input water quality parameters and receive predictions on water potability. The application's code is hosted on [GitHub](https://github.com/Projects-UNH/Water-Quality-Prediction).
 
 ## How to Run the Flask Application
 
